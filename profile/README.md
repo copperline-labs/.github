@@ -10,15 +10,21 @@ We build fast, affordable APIs that ship with [MCP servers](https://modelcontext
 
 Capture any webpage as a pixel-perfect screenshot with a single API call. PNG, JPEG, or WebP.
 
+**SDKs:**
+
 ```bash
-npx @copperline/rendex-mcp
+npm install @copperline/rendex        # JavaScript / TypeScript
+pip install rendex                     # Python
+npx @copperline/rendex-mcp            # MCP Server
 ```
 
 | | |
 |---|---|
 | **API** | [api.rendex.dev](https://api.rendex.dev) |
 | **Docs** | [rendex.dev/docs](https://rendex.dev/docs) |
-| **MCP Server** | [mcp.rendex.dev](https://mcp.rendex.dev) &middot; [npm](https://www.npmjs.com/package/@copperline/rendex-mcp) |
+| **JS SDK** | [npm](https://www.npmjs.com/package/@copperline/rendex) |
+| **Python SDK** | [PyPI](https://pypi.org/project/rendex/) |
+| **MCP Server** | [mcp.rendex.dev](https://mcp.rendex.dev) · [npm](https://www.npmjs.com/package/@copperline/rendex-mcp) |
 | **Free tier** | 500 calls/month — [get your key](https://rendex.dev/login) |
 
 **Features:** full-page capture, dark mode, ad blocking, element selectors, custom viewports (320–3840px), retina support, WebP output, progressive fallback on timeout.
