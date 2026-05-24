@@ -41,5 +41,5 @@ npx @copperline/rendex-mcp            # MCP Server
 <p>
   <a href="https://rendex.dev">rendex.dev</a> ·
   <a href="https://copperlinelabs.com">copperlinelabs.com</a> ·
-  <a href="mailto:hello@copperlinelabs.com">hello@copperlinelabs.com</a>
+  <a href="mailto:support@copperlinelabs.com">support@copperlinelabs.com</a>
 </p>
