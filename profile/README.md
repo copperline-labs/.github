@@ -6,11 +6,13 @@ We build fast, affordable APIs that ship with [MCP servers](https://modelcontext
 
 ---
 
-### Rendex — Screenshot & Rendering API
+### Rendex — Rendering API
 
-Capture any webpage as a pixel-perfect screenshot or PDF with a single API call. PNG, JPEG, WebP, or PDF output.
+Turn HTML, a URL, or Markdown into images or PDFs with a single API call — and monitor any page for changes. PNG, JPEG, WebP, or PDF output.
 
-**Features:** full-page capture, dark mode, ad blocking, element selectors, custom viewports (320-3840px), retina support, WebP output, PDF rendering, raw HTML rendering, CSS/JS injection, cookie and header injection, batch capture (up to 500 URLs), async processing with webhooks, geo-targeted screenshots, and progressive fallback on timeout.
+**Features:** HTML / URL / Markdown rendering, data (`{{placeholder}}`) templating, URL→Markdown extraction, hosted og:image links, full-page capture, dark mode, ad blocking, element selectors, custom viewports (320-3840px), retina, CSS/JS injection, cookie and header injection, batch capture (up to 500 URLs), async processing with webhooks, geo-targeting, and progressive fallback on timeout.
+
+**Rendex Watch** — monitor any URL on a schedule with a real-Chrome before/after visual diff (plus text diff) and email/webhook alerts, on the same key and credit pool. [rendex.dev/watch](https://rendex.dev/watch)
 
 **SDKs:**
 
@@ -27,14 +29,8 @@ npx @copperline/rendex-mcp            # MCP Server
 | **JS SDK** | [npm](https://www.npmjs.com/package/@copperline/rendex) |
 | **Python SDK** | [PyPI](https://pypi.org/project/rendex/) |
 | **MCP Server** | [mcp.rendex.dev](https://mcp.rendex.dev) · [npm](https://www.npmjs.com/package/@copperline/rendex-mcp) |
+| **Integrations** | n8n · Zapier · Make · Activepieces · Pipedream — [rendex.dev/integrations](https://rendex.dev/integrations) |
 | **Free tier** | 500 calls/month — [get your key](https://rendex.dev/login) |
-
----
-
-### Coming Soon
-
-- **PDF Generation API** — HTML/URL to PDF with headers, footers, and page breaks
-- **Website Change Monitor** — detect visual and content changes on any URL
 
 ---
 

@@ -22,4 +22,4 @@ You can also use GitHub's [private vulnerability reporting](https://docs.github.
 
 ## Scope
 
-This policy covers the Rendex API (`api.rendex.dev`), the dashboard and website (`rendex.dev`), and the official open-source integrations (`rendex-mcp`, `rendex-n8n`, `rendex-zapier`).
+This policy covers the Rendex API (`api.rendex.dev`) and Rendex Watch, the dashboard and website (`rendex.dev`), the official SDKs (`@copperline/rendex` on npm, `rendex` on PyPI), and the integrations (`rendex-mcp`, `rendex-n8n`, `rendex-zapier`, and the Activepieces and Pipedream apps).
