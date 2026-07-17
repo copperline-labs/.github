@@ -30,7 +30,7 @@ npx @copperline/rendex-mcp            # MCP Server
 | **Python SDK** | [PyPI](https://pypi.org/project/rendex/) |
 | **MCP Server** | [mcp.rendex.dev](https://mcp.rendex.dev) · [npm](https://www.npmjs.com/package/@copperline/rendex-mcp) |
 | **Integrations** | n8n · Zapier · Make · Activepieces · Pipedream — [rendex.dev/integrations](https://rendex.dev/integrations) |
-| **Free tier** | 500 calls/month — [get your key](https://rendex.dev/login) |
+| **Free tier** | 100 calls/month — [get your key](https://rendex.dev/login) |
 
 ---
 
