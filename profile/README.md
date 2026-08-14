@@ -10,7 +10,7 @@ We build fast, affordable APIs that ship with [MCP servers](https://modelcontext
 
 Turn HTML, a URL, or Markdown into images or PDFs with a single API call — and monitor any page for changes. PNG, JPEG, WebP, or PDF output.
 
-**Features:** HTML / URL / Markdown rendering, data (`{{placeholder}}`) templating, URL→Markdown extraction, hosted og:image links, full-page capture, dark mode, ad blocking, element selectors, custom viewports (320-3840px), retina, CSS/JS injection, cookie and header injection, batch capture (up to 500 URLs), async processing with webhooks, geo-targeting, and progressive fallback on timeout.
+**Features:** HTML / URL / Markdown rendering, data (`{{placeholder}}`) templating, URL→Markdown extraction, hosted og:image links, full-page capture, dark mode, ad blocking, element selectors, custom viewports (320-3840px), retina, CSS/JS injection, cookie and header injection, batch capture (up to 500 URLs), async processing with webhooks (Starter+), geo-targeting, and progressive fallback on timeout.
 
 **Rendex Watch** — monitor any URL on a schedule with a real-Chrome before/after visual diff (plus text diff) and email/webhook alerts, on the same key and credit pool. [rendex.dev/watch](https://rendex.dev/watch)
 
